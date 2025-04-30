@@ -36,3 +36,39 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojibhasan5800&show_icons=true&locale=en&layout=compact" alt="sojibhasan5800" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojibhasan5800&" alt="sojibhasan5800" /></p>
+
+## 🔥 Projects
+
+<hr>
+
+<table>
+  <tr>
+    <td><b>🛒 ELESSI - E-Commerce Website</b><br/>
+    ELESSI is a dynamic e-commerce platform for users and admins. Users can browse and purchase products, while admins manage inventory and orders.<br/><br/>
+    🔗 <a href="https://your-live-link.com">Live Site</a> |
+    <a href="https://github.com/your-client-repo">Client</a> |
+    <a href="https://github.com/your-server-repo">Server</a>
+    </td>
+  </tr>
+  <tr><td><hr></td></tr>
+  
+  <tr>
+    <td><b>📰 Magezix - Newspaper Website</b><br/>
+    Magezix delivers trending news and articles. Users can contribute articles pending admin approval. Premium articles are available via subscription.<br/><br/>
+    🔗 <a href="https://your-live-link.com">Live Site</a> |
+    <a href="https://github.com/your-client-repo">Client</a> |
+    <a href="https://github.com/your-server-repo">Server</a>
+    </td>
+  </tr>
+  <tr><td><hr></td></tr>
+
+  <tr>
+    <td><b>💪 ClubFit - Service Sharing Platform</b><br/>
+    ClubFit enables users to book or manage services. Providers update service statuses, and users can view their other offerings. Self-booking is disabled for providers.<br/><br/>
+    🔗 <a href="https://your-live-link.com">Live Site</a> |
+    <a href="https://github.com/your-client-repo">Client</a> |
+    <a href="https://github.com/your-server-repo">Server</a>
+    </td>
+  </tr>
+</table>
+
