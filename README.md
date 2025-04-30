@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with [Cardeller Web Application](https://car-project-1-yhxo.onrender.com)
 
-- 👨‍💻 All of my projects are available at [https://sojibhasan5800.github.io/portfoli-assigment/indexx.html#resume](https://sojibhasan5800.github.io/portfoli-assigment/indexx.html#resume)
+- 👨‍💻 All of my projects are available at [https://sojibhasan5800.github.io/portfolio-sojib-hassan/index.html](https://sojibhasan5800.github.io/portfolio-sojib-hassan/index.html)
 
 - 💬 Ask me about ****Django, Python, REST APIs****
 
 - 📫 How to reach me **sojibhasan5800@gmail.com**
 
-- 📄 Know about my experiences [https://sojibhasan5800.github.io/portfoli-assigment/indexx.html#resume](https://sojibhasan5800.github.io/portfoli-assigment/indexx.html#resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NQcWu4Zp6SJyXuOD3lhsz74-kd8r-L1p/view?usp=drive_link](https://drive.google.com/file/d/1NQcWu4Zp6SJyXuOD3lhsz74-kd8r-L1p/view?usp=drive_link)
 
 - ⚡ Fun fact **I write code faster when coffee is involved ☕**
 
