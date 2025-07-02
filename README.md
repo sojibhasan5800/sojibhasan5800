@@ -43,10 +43,13 @@
 
 <table>
   <tr>
-    <td><b>🛒 ELESSI - E-Commerce Website</b><br/>
-    ELESSI is a dynamic e-commerce platform for users and admins. Users can browse and purchase products, while admins manage inventory and orders.<br/><br/>
-    🔗 <a href="https://your-live-link.com">Live Site</a> |
-    <a href="https://github.com/your-client-repo">Client</a> |
+    <td><b>🛒 Flip_Cart E-Commerce Platform </b><br/>
+     Built a secure e-commerce website, adhering to clean code principles and following the software 
+development lifecycle. Participated in code reviews and collaborated with team members to 
+troubleshoot bugs and optimize performance. Implemented user registration, personalized cart 
+management, and integrated third-party APIs and payment gateways..<br/><br/>
+    🔗 <a href="[https://your-live-link.com](https://flip-cart-project.onrender.com  )">Live Site</a> |
+    <a href=" https://github.com/sojibhasan5800/Flip_Cart_Project">Client</a> |
     <a href="https://github.com/your-server-repo">Server</a>
     </td>
   </tr>
