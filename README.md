@@ -50,7 +50,7 @@ troubleshoot bugs and optimize performance. Implemented user registration, perso
 management, and integrated third-party APIs and payment gateways..<br/><br/>
     🔗 <a href="https://flip-cart-project.onrender.com/">Live Site</a> 
   
-    </td>
+
   </tr>
   <tr><td><hr></td></tr>
   
@@ -61,7 +61,7 @@ RESTful API integration. Followed SDLC stages from development to deployment on 
 collaborating in a team environment to review and improve code quality. .<br/><br/>
     🔗 <a href="https://car-project-1-yhxo.onrender.com/">Live Site</a> 
    
-    </td>
+
   </tr>
   <tr><td><hr></td></tr>
 
@@ -72,7 +72,7 @@ collaborating in a team environment to review and improve code quality. .<br/><b
       Collaborated on testing and debugging to ensure reliable performance..<br/><br/>
     🔗 <a href="https://libaray-management-project-as15.vercel.app/login/?next=/">Live Site</a> 
     
-    </td>
+   
   </tr>
 </table>
 
