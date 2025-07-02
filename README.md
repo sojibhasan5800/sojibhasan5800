@@ -48,29 +48,30 @@
 development lifecycle. Participated in code reviews and collaborated with team members to 
 troubleshoot bugs and optimize performance. Implemented user registration, personalized cart 
 management, and integrated third-party APIs and payment gateways..<br/><br/>
-    🔗 <a href="[https://your-live-link.com](https://flip-cart-project.onrender.com  )">Live Site</a> |
-    <a href=" https://github.com/sojibhasan5800/Flip_Cart_Project">Client</a> |
-    <a href="https://github.com/your-server-repo">Server</a>
+    🔗 <a href="https://flip-cart-project.onrender.com/">Live Site</a> 
+  
     </td>
   </tr>
   <tr><td><hr></td></tr>
   
   <tr>
-    <td><b>📰 Magezix - Newspaper Website</b><br/>
-    Magezix delivers trending news and articles. Users can contribute articles pending admin approval. Premium articles are available via subscription.<br/><br/>
-    🔗 <a href="https://your-live-link.com">Live Site</a> |
-    <a href="https://github.com/your-client-repo">Client</a> |
-    <a href="https://github.com/your-server-repo">Server</a>
+    <td><b> 🚗 Car Dealer Website  </b><br/>
+   Developed a full-stack car dealership platform with role-based access, secure authentication, and 
+RESTful API integration. Followed SDLC stages from development to deployment on Render, 
+collaborating in a team environment to review and improve code quality. .<br/><br/>
+    🔗 <a href="https://car-project-1-yhxo.onrender.com/">Live Site</a> 
+   
     </td>
   </tr>
   <tr><td><hr></td></tr>
 
   <tr>
-    <td><b>💪 ClubFit - Service Sharing Platform</b><br/>
-    ClubFit enables users to book or manage services. Providers update service statuses, and users can view their other offerings. Self-booking is disabled for providers.<br/><br/>
-    🔗 <a href="https://your-live-link.com">Live Site</a> |
-    <a href="https://github.com/your-client-repo">Client</a> |
-    <a href="https://github.com/your-server-repo">Server</a>
+    <td><b> 📚 Library Management System </b><br/>
+      Implemented with React frontend and Django REST backend, this application supports book inventory  
+      And user management. Emphasized API design best practices and clean, maintainable code. 
+      Collaborated on testing and debugging to ensure reliable performance..<br/><br/>
+    🔗 <a href="https://libaray-management-project-as15.vercel.app/login/?next=/">Live Site</a> 
+    
     </td>
   </tr>
 </table>
