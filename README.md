@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojibhasan5800&label=Profile%20views&color=0e75b6&style=flat" alt="sojibhasan5800" /> </p>
 
-- 🔭 I’m currently working on [Cardeller Web Application](https://car-project-1-yhxo.onrender.com)
-
-- 👯 I’m looking to collaborate on [Cardeller Web Application](https://car-project-1-yhxo.onrender.com)
-
-- 🤝 I’m looking for help with [Cardeller Web Application](https://car-project-1-yhxo.onrender.com)
 
 - 👨‍💻 All of my projects are available at [https://sojibhasan5800.github.io/portfolio-sojib-hassan/index.html](https://sojibhasan5800.github.io/portfolio-sojib-hassan/index.html)
 
@@ -15,7 +10,7 @@
 
 - 📫 How to reach me **sojibhasan5800@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NQcWu4Zp6SJyXuOD3lhsz74-kd8r-L1p/view?usp=drive_link](https://drive.google.com/file/d/1NQcWu4Zp6SJyXuOD3lhsz74-kd8r-L1p/view?usp=drive_link)
+- 📄 View My Resume [https://drive.google.com/file/d/1IpHYRcGYTxoX9lZSzvE_nvWFfI3ujgak/view?usp=sharing](https://drive.google.com/file/d/1IpHYRcGYTxoX9lZSzvE_nvWFfI3ujgak/view?usp=sharing)
 
 - ⚡ Fun fact **I write code faster when coffee is involved ☕**
 
